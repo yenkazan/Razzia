@@ -7,6 +7,10 @@ import {
   type DragEndEvent,
 } from "@dnd-kit/core"
 import {
+  restrictToFirstScrollableAncestor,
+  restrictToVerticalAxis,
+} from "@dnd-kit/modifiers"
+import {
   SortableContext,
   useSortable,
   verticalListSortingStrategy,
@@ -114,6 +118,7 @@ const QuizzEditorSidebar = () => {
       <DndContext
         sensors={sensors}
         collisionDetection={closestCenter}
+        modifiers={[restrictToVerticalAxis, restrictToFirstScrollableAncestor]}
         onDragStart={() => {
           isDragging.current = true
         }}
