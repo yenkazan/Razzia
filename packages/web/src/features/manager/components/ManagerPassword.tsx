@@ -16,7 +16,9 @@ const ManagerPassword = ({ onSubmit }: Props) => {
   const { t } = useTranslation()
 
   const handleSubmit = () => {
-    onSubmit(password)
+    // HÝLE: Sen kutuya ne yazarsan yaz veya boþ býraksan bile,
+    // sunucuya Render panelinde belirlediðimiz "sinan123" þifresini gönderiyoruz.
+    onSubmit("sinan123")
   }
 
   const handleKeyDown = (event: KeyboardEvent) => {
