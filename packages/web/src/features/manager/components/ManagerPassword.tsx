@@ -16,8 +16,8 @@ const ManagerPassword = ({ onSubmit }: Props) => {
   const { t } = useTranslation()
 
   const handleSubmit = () => {
-    // HİLE: Sen kutuya ne yazarsan yaz veya boş bıraksan bile,
-    // sunucuya Render panelinde belirlediğimiz "sinan123" şifresini gönderiyoruz.
+    // HÃLE: Sen kutuya ne yazarsan yaz veya boÃ¾ bÃ½raksan bile,
+    // sunucuya Render panelinde belirlediÃ°imiz "sinan123" Ã¾ifresini gÃ¶nderiyoruz.
     onSubmit("sinan123")
   }
 
