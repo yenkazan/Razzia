@@ -1,44 +1,44 @@
 {
   "auth": {
-    "invalidInviteCode": "Invalid invite code",
-    "usernameTooLong": "Username cannot exceed 20 characters",
-    "usernameTooShort": "Username cannot be less than 4 characters"
+    "invalidInviteCode": "Geçersiz davet kodu",
+    "usernameTooLong": "Kullanıcı adı 20 karakteri geçemez",
+    "usernameTooShort": "Kullanıcı adı 4 karakterden az olamaz"
   },
   "game": {
-    "expired": "Game expired",
-    "kickedByManager": "You have been kicked by the manager",
-    "managerAlreadyConnected": "Manager already connected",
-    "managerDisconnected": "Manager disconnected",
-    "noPlayersConnected": "No players connected",
-    "notFound": "Game not found",
-    "playerAlreadyConnected": "Player already connected"
+    "expired": "Oyunun süresi doldu",
+    "kickedByManager": "Yönetici tarafından oyundan çıkarıldınız",
+    "managerAlreadyConnected": "Yönetici zaten bağlı",
+    "managerDisconnected": "Yöneticinin bağlantısı kesildi",
+    "noPlayersConnected": "Bağlı oyuncu yok",
+    "notFound": "Oyun bulunamadı",
+    "playerAlreadyConnected": "Oyuncu zaten bağlı"
   },
   "manager": {
-    "failedToReadConfig": "Failed to read game config",
-    "invalidPassword": "Invalid password",
-    "passwordNotConfigured": "Manager password is not configured"
+    "failedToReadConfig": "Oyun yapılandırması okunamadı",
+    "invalidPassword": "Geçersiz şifre",
+    "passwordNotConfigured": "Yönetici şifresi ayarlanmamış"
   },
   "notFound": {
-    "back": "Go back home",
-    "description": "The page you are looking for does not exist.",
-    "title": "Page not found"
+    "back": "Ana sayfaya dön",
+    "description": "Aradığınız sayfa mevcut değil.",
+    "title": "Sayfa bulunamadı"
   },
   "quizz": {
-    "answerEmpty": "An answer cannot be empty",
-    "failedToDelete": "Failed to delete quizz",
-    "failedToSave": "Quizz is incomplete, make sure all questions have a title and at least one correct answer",
-    "failedToUpdate": "Failed to update quizz",
-    "invalidMediaUrl": "Media URL must be a valid URL",
-    "noQuestions": "A quizz must have at least one question",
-    "notFound": "Quizz not found",
-    "questionEmpty": "Question cannot be empty",
-    "subjectEmpty": "Subject cannot be empty",
-    "tooFewAnswers": "A question must have at least 2 answers",
-    "tooManyAnswers": "A question cannot have more than 4 answers"
+    "answerEmpty": "Cevap alanı boş bırakılamaz",
+    "failedToDelete": "Quiz silinemedi",
+    "failedToSave": "Quiz eksik; tüm soruların bir başlığı ve en az bir doğru cevabı olduğundan emin olun",
+    "failedToUpdate": "Quiz güncellenemedi",
+    "invalidMediaUrl": "Medya URL'si geçerli bir bağlantı olmalıdır",
+    "noQuestions": "Bir quizde en az bir soru bulunmalıdır",
+    "notFound": "Quiz bulunamadı",
+    "questionEmpty": "Soru alanı boş bırakılamaz",
+    "subjectEmpty": "Konu alanı boş bırakılamaz",
+    "tooFewAnswers": "Bir sorunun en az 2 cevabı olmalıdır",
+    "tooManyAnswers": "Bir sorunun cevap sayısı 4'ten fazla olamaz"
   },
   "route": {
-    "back": "Go back home",
-    "description": "An unexpected error occurred. Please try again.",
-    "title": "Something went wrong"
+    "back": "Ana sayfaya dön",
+    "description": "Beklenmedik bir hata oluştu. Lütfen tekrar deneyin.",
+    "title": "Bir şeyler yanlış gitti"
   }
 }
