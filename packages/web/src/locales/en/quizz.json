@@ -1,31 +1,31 @@
 {
-  "addAnswerPlaceholder": "Cevap ekle...",
-  "addQuestion": "Soru ekle",
-  "answersCountSuffix": " cevap",
-  "deleteQuestion": "Soruyu sil",
-  "noQuestionYet": "Henüz soru yok",
+  "addAnswerPlaceholder": "Add an answer...",
+  "addQuestion": "Add question",
+  "answersCountSuffix": " answers",
+  "deleteQuestion": "Delete question",
+  "noQuestionYet": "No question yet",
   "question": {
-    "addMediaHint": "Sorunuza bir görsel, video veya ses ekleyin",
+    "addMediaHint": "Add an image, video or audio to your question",
     "config": {
-      "answerTime": "Cevaplama süresi",
-      "answerTimeHint": "Oyuncuların cevaplamak için sahip olduğu süre",
-      "noTimeLimit": "Süre sınırı yok",
-      "noTimeLimitHint": "Puanlar cevaplama sırasına göre verilir. Cevap vermek için bir süre sınırı yoktur.",
-      "questionDisplay": "Soru gösterimi",
-      "questionDisplayHint": "Cevaplar görünmeden önceki süre",
-      "timings": "Zamanlamalar"
+      "answerTime": "Answer time",
+      "answerTimeHint": "Time players have to answer",
+      "noTimeLimit": "No time limit",
+      "noTimeLimitHint": "Points are awarded based on answer order. There is no time limit to answer.",
+      "questionDisplay": "Question display",
+      "questionDisplayHint": "Duration before answers appear",
+      "timings": "Timings"
     },
-    "deleteQuestion": "Soruyu sil",
-    "deleteQuestionConfirm": "Bu soruyu silmek istediğinize emin misiniz?",
+    "deleteQuestion": "Delete question",
+    "deleteQuestionConfirm": "Are you sure you want to delete this question?",
     "media": {
-      "audio": "Ses",
-      "image": "Görsel",
+      "audio": "Audio",
+      "image": "Image",
       "video": "Video"
     },
-    "mediaUrlPlaceholder": "URL girin...",
-    "placeholder": "Sorunuzu yazmaya başlayın..."
+    "mediaUrlPlaceholder": "Enter URL...",
+    "placeholder": "Start typing your question..."
   },
-  "quizzSaved": "Quiz başarıyla kaydedildi",
-  "quizzUpdated": "Quiz başarıyla güncellendi",
-  "titleQuizzPlaceholder": "Quiz başlığı..."
+  "quizzSaved": "Quizz saved successfully",
+  "quizzUpdated": "Quizz updated successfully",
+  "titleQuizzPlaceholder": "Quizz title..."
 }

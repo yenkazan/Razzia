@@ -1,44 +1,44 @@
 {
-  "configurationsTitle": "Yapılandırmalar",
-  "logout": "Çıkış Yap",
-  "passwordPlaceholder": "Şifre",
+  "configurationsTitle": "Configurations",
+  "logout": "Logout",
+  "passwordPlaceholder": "Password",
   "quizz": {
-    "create": "Quiz Oluştur",
-    "delete": "Quizi sil",
-    "deleteConfirm": "\"{{name}}\" isimli quizi silmek istediğinize emin misiniz? Bu işlem geri alınamaz.",
-    "deleted": "Quiz silindi",
-    "import": "JSON'dan quiz içe aktar",
-    "none": "Henüz hiç quiz oluşturulmadı",
-    "notFound": "Quiz bulunamadı",
-    "pleaseCreate": "Lütfen önce bir quiz oluşturun",
-    "pleaseSelect": "Lütfen bir quiz seçin",
-    "startGame": "Oyunu başlat"
+    "create": "Create Quizz",
+    "delete": "Delete quizz",
+    "deleteConfirm": "Are you sure you want to delete \"{{name}}\"? This action cannot be undone.",
+    "deleted": "Quizz deleted",
+    "import": "Import quizz from JSON",
+    "none": "No quizz created yet",
+    "notFound": "No quizz found",
+    "pleaseCreate": "Please create a quizz first",
+    "pleaseSelect": "Please select a quizz",
+    "startGame": "Start game"
   },
   "result": {
-    "delete": "Sonucu sil",
-    "deleteConfirm": "\"{{name}}\" için sonucu silmek istiyor musunuz? Bu işlem geri alınamaz.",
-    "deleted": "Sonuç silindi",
-    "noAnswer": "Cevap yok",
-    "none": "Henüz sonuç yok, raporları burada görmek için bir oyunu tamamlayın",
-    "paginationOf": " / ",
+    "delete": "Delete result",
+    "deleteConfirm": "Delete result for \"{{name}}\"? This cannot be undone.",
+    "deleted": "Result deleted",
+    "noAnswer": "No answer",
+    "none": "No results yet, finish a game to see reports here",
+    "paginationOf": " of ",
     "stats": {
-      "correctAnswers": "Doğru cevaplar",
-      "playersAnswered": "Cevap veren oyuncular"
+      "correctAnswers": "Correct answers",
+      "playersAnswered": "Players answered"
     },
     "table": {
-      "answered": "Cevaplandı",
-      "correct": " Doğru",
-      "correctIncorrect": "Doğru / Yanlış",
-      "incorrect": " Yanlış",
-      "player": "Oyuncu",
-      "points": "Puan"
+      "answered": "Answered",
+      "correct": " Correct",
+      "correctIncorrect": "Correct / Incorrect",
+      "incorrect": " Incorrect",
+      "player": "Player",
+      "points": "Points"
     },
-    "playerCount": "{{count}} oyuncu",
-    "timeLimitSuffix": "sn süre sınırı"
+    "playerCount": "{{count}} player(s)",
+    "timeLimitSuffix": "s time limit"
   },
   "tabs": {
-    "play": "Oyna",
-    "quizz": "Quiz",
-    "results": "Sonuçlar"
+    "play": "Play",
+    "quizz": "Quizz",
+    "results": "Results"
   }
 }
