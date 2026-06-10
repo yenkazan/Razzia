@@ -1,27 +1,27 @@
 {
-  "correct": "Nice!",
-  "gamePinLabel": "Game PIN:",
+  "correct": "Harika!",
+  "gamePinLabel": "Oyun PIN'i:",
   "hud": {
-    "answers": "Answers",
-    "time": "Time"
+    "answers": "Cevaplar",
+    "time": "Süre"
   },
-  "joinInstruction": "Join the game at",
-  "leaderboard": "Leaderboard",
-  "pinLabel": "PIN Code",
-  "playersJoined": "Players Joined: ",
-  "questionPrefix": "Question #",
+  "joinInstruction": "Oyuna buradan katılın:",
+  "leaderboard": "Liderlik Tablosu",
+  "pinLabel": "PIN Kodu",
+  "playersJoined": "Katılan Oyuncu Sayısı: ",
+  "questionPrefix": "Soru #",
   "rank": {
-    "1": "1st place",
-    "2": "2nd place",
-    "3": "3rd place",
-    "other": "{{rank}}th place"
+    "1": "1. sıra",
+    "2": "2. sıra",
+    "3": "3. sıra",
+    "other": "{{rank}}. sıra"
   },
-  "rankSuffix": " place",
-  "resultBehind": ", behind ",
-  "resultTop": "You finished ",
-  "startGame": "Start Game",
-  "usernamePlaceholder": "Username here",
-  "waitingForAnswers": "Waiting for the players to answer",
-  "waitingForPlayers": "Waiting for players",
-  "wrong": "Too bad"
+  "rankSuffix": ". sıra",
+  "resultBehind": ", şunun arkasında: ",
+  "resultTop": "Şöyle bitirdiniz: ",
+  "startGame": "Oyunu Başlat",
+  "usernamePlaceholder": "Kullanıcı adı girin",
+  "waitingForAnswers": "Oyuncuların cevap vermesi bekleniyor",
+  "waitingForPlayers": "Oyuncular bekleniyor",
+  "wrong": "Maalesef yanlış"
 }
