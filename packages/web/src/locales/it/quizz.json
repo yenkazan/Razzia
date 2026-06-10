@@ -1,31 +1,31 @@
 {
-  "addAnswerPlaceholder": "Aggiungi una risposta...",
-  "addQuestion": "Aggiungi domanda",
-  "answersCountSuffix": " risposte",
-  "deleteQuestion": "Elimina domanda",
-  "noQuestionYet": "Nessuna domanda ancora",
+  "addAnswerPlaceholder": "Cevap ekle...",
+  "addQuestion": "Soru Ekle",
+  "answersCountSuffix": " cevap",
+  "deleteQuestion": "Soruyu Sil",
+  "noQuestionYet": "Henüz soru eklenmedi",
   "question": {
-    "addMediaHint": "Aggiungi un'immagine, video o audio alla tua domanda",
+    "addMediaHint": "Sorunuza bir resim, video veya ses dosyası ekleyin",
     "config": {
-      "answerTime": "Tempo di risposta",
-      "answerTimeHint": "Tempo che i giocatori hanno per rispondere",
-      "noTimeLimit": "Nessun limite di tempo",
-      "noTimeLimitHint": "I punti vengono assegnati in base all'ordine di risposta. Non c'è limite di tempo per rispondere.",
-      "questionDisplay": "Visualizzazione domanda",
-      "questionDisplayHint": "Durata prima che appaiano le risposte",
-      "timings": "Tempi"
+      "answerTime": "Cevaplama Süresi",
+      "answerTimeHint": "Oyuncuların cevap vermek için sahip olduğu süre",
+      "noTimeLimit": "Süre Sınırı Yok",
+      "noTimeLimitHint": "Puanlar cevaplama sırasına göre verilir. Cevap vermek için zaman sınırı yoktur.",
+      "questionDisplay": "Soru Gösterimi",
+      "questionDisplayHint": "Cevaplar görünmeden önceki bekleme süresi",
+      "timings": "Zamanlamalar"
     },
-    "deleteQuestion": "Elimina domanda",
-    "deleteQuestionConfirm": "Sei sicuro di voler eliminare questa domanda?",
+    "deleteQuestion": "Soruyu Sil",
+    "deleteQuestionConfirm": "Bu soruyu silmek istediğinize emin misiniz?",
     "media": {
-      "audio": "Audio",
-      "image": "Immagine",
+      "audio": "Ses",
+      "image": "Resim",
       "video": "Video"
     },
-    "mediaUrlPlaceholder": "Inserisci URL...",
-    "placeholder": "Inizia a scrivere la tua domanda..."
+    "mediaUrlPlaceholder": "URL girin...",
+    "placeholder": "Sorunuzu yazmaya başlayın..."
   },
-  "quizzSaved": "Quiz salvato con successo",
-  "quizzUpdated": "Quiz aggiornato con successo",
-  "titleQuizzPlaceholder": "Titolo del quiz..."
+  "quizzSaved": "Quiz başarıyla kaydedildi",
+  "quizzUpdated": "Quiz başarıyla güncellendi",
+  "titleQuizzPlaceholder": "Quiz başlığı..."
 }

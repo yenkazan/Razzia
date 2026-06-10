@@ -1,27 +1,27 @@
 {
-  "correct": "Bravo!",
-  "gamePinLabel": "PIN del gioco:",
+  "correct": "Tebrikler, Doğru!",
+  "gamePinLabel": "Oyun PIN kodu:",
   "hud": {
-    "answers": "Risposte",
-    "time": "Tempo"
+    "answers": "Cevaplar",
+    "time": "Süre"
   },
-  "joinInstruction": "Unisciti al gioco su",
-  "leaderboard": "Classifica",
-  "pinLabel": "Codice PIN",
-  "playersJoined": "Giocatori connessi: ",
-  "questionPrefix": "Domanda #",
+  "joinInstruction": "Oyuna katılmak için adres:",
+  "leaderboard": "Liderlik Tablosu",
+  "pinLabel": "PIN Kodu",
+  "playersJoined": "Bağlı Oyuncular: ",
+  "questionPrefix": "Soru #",
   "rank": {
-    "1": "1° posto",
-    "2": "2° posto",
-    "3": "3° posto",
-    "other": "{{rank}}° posto"
+    "1": "1. Sıra",
+    "2": "2. Sıra",
+    "3": "3. Sıra",
+    "other": "{{rank}}. Sıra"
   },
-  "rankSuffix": "° posto",
-  "resultBehind": ", dietro ",
-  "resultTop": "Hai terminato ",
-  "startGame": "Inizia il gioco",
-  "usernamePlaceholder": "Nome utente qui",
-  "waitingForAnswers": "In attesa delle risposte dei giocatori",
-  "waitingForPlayers": "In attesa di giocatori",
-  "wrong": "Peccato"
+  "rankSuffix": ". Sıra",
+  "resultBehind": ", arkasında ",
+  "resultTop": "Yarışmayı tamamladığınız sıra: ",
+  "startGame": "Oyunu Başlat",
+  "usernamePlaceholder": "Kullanıcı adınızı yazın",
+  "waitingForAnswers": "Oyuncuların cevap vermesi bekleniyor",
+  "waitingForPlayers": "Oyuncular bekleniyor...",
+  "wrong": "Maalesef Yanlış"
 }
