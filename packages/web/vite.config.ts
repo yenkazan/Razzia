@@ -33,6 +33,7 @@ export default defineConfig({
   server: {
     port: 3000,
     host: "0.0.0.0",
+    allowedHosts: [".onrender.com"], // Bütün render sunucularına izin veriyoruz
     proxy: {
       "/ws": {
         target: "http://localhost:3001",
@@ -43,6 +44,7 @@ export default defineConfig({
   preview: {
     port: 3000,
     host: "0.0.0.0",
+    allowedHosts: [".onrender.com"], // Canlı yayındaki önizleme için de izin verdik
   },
   build: {
     chunkSizeWarningLimit: 2000,
