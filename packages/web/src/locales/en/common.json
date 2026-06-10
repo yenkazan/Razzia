@@ -1,21 +1,21 @@
 {
-  "cancel": "Cancel",
-  "confirm": "Confirm",
-  "connecting": "Connecting...",
-  "delete": "Delete",
-  "exit": "Exit",
+  "cancel": "İptal",
+  "confirm": "Onayla",
+  "connecting": "Bağlanıyor...",
+  "delete": "Sil",
+  "exit": "Çıkış",
   "language": {
-    "de": "German",
-    "en": "English",
-    "es": "Spanish",
-    "fr": "French",
-    "it": "Italian",
-    "ja": "Japanese"
+    "de": "Almanca",
+    "en": "İngilizce",
+    "es": "İspanyolca",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "ja": "Japonca"
   },
-  "loading": "Loading...",
-  "next": "Next",
-  "save": "Save",
-  "seconds": "sec",
-  "skip": "Skip",
-  "submit": "Submit"
+  "loading": "Yükleniyor...",
+  "next": "İleri",
+  "save": "Kaydet",
+  "seconds": "sn",
+  "skip": "Geç",
+  "submit": "Gönder"
 }
